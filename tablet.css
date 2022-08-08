@@ -1,0 +1,14 @@
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+.product-cards-container{
+    flex-direction: row;
+    flex-wrap: wrap;/*para que se acomoden los contenedores*/
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container-slider{
+    justify-content: center;
+}
